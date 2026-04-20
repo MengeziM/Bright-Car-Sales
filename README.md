@@ -2,13 +2,13 @@
 
 Analysis of Bright Car Sales
 
-# Problem statement 
+Problem statement 
 
-# Aim of the project 
+Aim of the project 
 
-# ⁠Objective - Steps taken to solve for the aim 
+⁠Objective - Steps taken to solve for the aim 
 
-# Summary of results
+Summary of results
 
-# Tools used in the case study
+Tools used in the case study
    
